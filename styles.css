@@ -1,0 +1,23 @@
+body {
+    width: 900px;
+    margin: 0 auto 0 auto;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.profile-photo {
+    width: 25vw;
+    height: auto;
+    max-width: 256px;
+}
+
+aside {
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
